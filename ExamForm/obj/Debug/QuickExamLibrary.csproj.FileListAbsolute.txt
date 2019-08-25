@@ -1,0 +1,11 @@
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\QuickExamLibrary.csprojAssemblyReference.cache
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\QuickExamLibrary.Properties.Resources.resources
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\QuickExamLibrary.csproj.GenerateResource.cache
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\QuickExamLibrary.csproj.CoreCompileInputs.cache
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\bin\Debug\QuickExamLibrary.dll
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\bin\Debug\QuickExamLibrary.pdb
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\QuickExamLibrary.dll
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\QuickExamLibrary.pdb
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\bin\Debug\Dapper.dll
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\bin\Debug\Dapper.xml
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\QuickExamLibrary.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.csprojAssemblyReference.cache
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.Properties.Resources.resources
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.csproj.GenerateResource.cache
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.csproj.CoreCompileInputs.cache
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\bin\Debug\ExamForm.exe.config
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\bin\Debug\ExamForm.exe
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\bin\Debug\ExamForm.pdb
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.exe
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.pdb
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.Login.resources
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.Views.MainStudent.resources
+C:\Users\conor\Source\Repos\ExamProject\ExamForm\ExamForm\obj\Debug\ExamForm.MainTeacher.resources
